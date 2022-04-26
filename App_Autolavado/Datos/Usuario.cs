@@ -4,7 +4,7 @@ using System.Text;
 
 namespace App_Autolavado.Datos
 {
-    class Usuario
+    public class Usuario
     {
     }
 }
