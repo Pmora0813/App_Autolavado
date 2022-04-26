@@ -6,6 +6,5 @@ namespace App_Autolavado.Datos
 {
     public class Usuario
     {
-        //Hola
     }
 }
